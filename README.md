@@ -38,7 +38,7 @@ Contributions to the project are welcome! Whether it's fixing bugs, adding new f
 Special thanks to the developers and contributors of ReactJS and other open-source tools and libraries used in this project. Your dedication to creating accessible and powerful web technologies is greatly appreciated.
 
 **Get Started**:
-Ready to play? Visit the Tik-Tak-Toe 9X9 GitHub repository and start enjoying the game today! 
+Ready to play? Visit https://ziaurrehman90.github.io/Tic-Tak-Toe-Game---/  and start enjoying the game today! 
 Feel free to share your feedback or suggestions for improvements. Let the strategic battles begin!
 
 
